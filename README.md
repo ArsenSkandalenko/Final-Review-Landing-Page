@@ -1,7 +1,5 @@
 # Final-Review-Landing-Page
 
-# Final-Review-Landing-Page
-
 ## Description
 This project is a single-page website (landing page) designed for [briefly describe the purpose of the landing page, e.g., promoting a product/service/event]. The landing page is fully responsive, ensuring a user-friendly experience on both mobile and desktop devices.
 
