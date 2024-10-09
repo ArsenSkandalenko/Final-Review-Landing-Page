@@ -23,9 +23,6 @@ Follow the videos in this and next lessons to implement the page block by block
 - Check `background-image: url()` to be relative to the `main.scss`. So should start with `../images`.
 - If some points from the checklist are not relevant to your design, just skip it.
 
-
-# Landing page
-
 ## Description
 This project is a single-page website (landing page) designed for [briefly describe the purpose of the landing page, e.g., promoting a product/service/event]. The landing page is fully responsive, ensuring a user-friendly experience on both mobile and desktop devices.
 
